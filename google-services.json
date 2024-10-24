@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "408725557638",
+    "project_id": "zero-rat-a95f9",
+    "storage_bucket": "zero-rat-a95f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408725557638:android:aa685e5415dbcb74269c07",
+        "android_client_info": {
+          "package_name": "com.zero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQ9VHE7KI5RpPGZ8BXdrTFOqi8ooFuoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408725557638:android:f7834875f3c664fb269c07",
+        "android_client_info": {
+          "package_name": "com.zero.rat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQ9VHE7KI5RpPGZ8BXdrTFOqi8ooFuoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
